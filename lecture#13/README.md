@@ -83,7 +83,7 @@ Aplic acum și mă voi pregăti in paralel. Nu mă limitez la o singură compani
   * [Introduction to algorithms](http://amzn.to/2h7i1hW)
   * [The Algorithm Design Manual](http://amzn.to/2y6ueaa)
 * Mă înregistrez pe https://www.interviewbit.com/ și trec primele 6 nivele de la Practice/Programming
-* Împreună cu colegul/colega mea de grupă simulăm un interviu
+* Împreună cu colegul/colega mea de grupă simulăm un interviu (cel puțin 2 ori)
   * Eu voi fi interviator [1] și voi alege o problemă din carte sau de pe interviewbit, și în decurs la inverviu îmi voi nota pe o hârtie toate sugestiile/greșelile
   * Colegul va fi interviatul [2]
   * [1] Eu dau întrebarea (e.g. Determină dacă 2 cuvinte sunt anagrame)
@@ -100,6 +100,9 @@ Aplic acum și mă voi pregăti in paralel. Nu mă limitez la o singură compani
   * [1] Dacă eu văd vreo greșeală conceptuală, sau un exemplu care ar mai scoate la iveală vreo greșeala - îl rog să încerce acest exemplu
   * [1] Menționez toate notițele relevante (e.g. "Ai uitat să dai întrebări de clarificare la început" sau "Ai greșit complexitatea de timp la prima soluție")
   * Acum ne schimbăm cu rolurile.
+* Partea cea mai importantă: practic cu oameni necunoscuți:
+  * Mă înregistrez pe [pramp.com](https://www.pramp.com/)
+  * Fac cel puțin 3 interviuri pe platformă
 
 ## 4) Interviul
 

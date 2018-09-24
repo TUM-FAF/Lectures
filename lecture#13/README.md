@@ -64,7 +64,7 @@ Aplic acum și mă voi pregăti in paralel. Nu mă limitez la o singură compani
   * [sau] Aplic direct de pe https://careers.google.com
 * Amazon
   * Cunosc pe cineva cine lucreaza la Amazon și cer un referral
-  * [sau] Îl contactez pe alex, menționez că mii interesant și Google, și el îmi dă contactele la un inginer care poate sa-mi dea un referral
+  * [sau] Îl contactez pe alex, menționez că mii interesant și Amazon, și el îmi dă contactele la un inginer care poate sa-mi dea un referral
   * [sau] Aplic direct de pe https://www.amazon.jobs/en/business_categories/university-recruiting
 * Compania mea de vis (Netflix, Dropbox, Asana, Uber...)
   * Verific dacă au poziții deschise penru practică și aplic și acolo

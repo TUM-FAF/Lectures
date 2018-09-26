@@ -7,7 +7,7 @@
 
 Am scris cod, dar nu mult, doar cât am făcut laboratoare la universitate. Înțeleg unele structuri de date (array, linked list, stack, binary tree, graph) deși grafurile mi se dau mai greu. 
 
-Dar am dubii că sunt destul de bun/ă penrtu o așa companie, poate voi aplica la anul. Totuși am dubii și îi scriu lui alex bumbu dacă are rost să aplic în acest an. El mă convinge că are rost și eu mă decid să încerc. **Nu am ce pierde, și in cel mai bun caz câștig experiență.**
+Dar am dubii că sunt destul de bun/ă penrtu o așa companie, poate voi aplica la anul. Totuși am dubii și îi scriu lui alex bumbu dacă are rost să aplic în acest an. El mă convinge că are rost și eu mă decid să încerc. **[Nu am ce pierde, și in cel mai bun caz câștig experiență](https://www.facebook.com/careers/students-and-grads/).**
 
 ## 1) Îmi pregătesc CVul
 
@@ -55,16 +55,14 @@ One of the challenges was memory consumption, and after investigating memory usa
 
 Aplic acum și mă voi pregăti in paralel. Nu mă limitez la o singură companie și aplic la mai multe:
 * Facebook
-  * Îl contactez pe bumbu, îi transmit email-ul personal și el îmi trimite referral
-  * [sau] Îl contactez pe bumbu, îi transmit email-ul personal și menționez că aș vrea să fiu contactat de recruiter direct
+  * Îl contactez pe bumbu, și el îmi face referral sau mă pune în contact cu recruiter-ul pentru studenți
   * [sau] Aplic direct de pe https://facebook.com/careers
 * Google
   * Cunosc pe cineva cine lucreaza la Google și cer un referral
-  * [sau] Îl contactez pe alex, menționez că mii interesant și Google, și el îmi dă contactele la un inginer care poate sa-mi dea un referral
   * [sau] Aplic direct de pe https://careers.google.com
 * Amazon
   * Cunosc pe cineva cine lucreaza la Amazon și cer un referral
-  * [sau] Îl contactez pe alex, menționez că mii interesant și Amazon, și el îmi dă contactele la un inginer care poate sa-mi dea un referral
+  * [sau] Îl contactez pe bumbu, menționez că mii interesant și Amazon, și el îmi dă contactele la un inginer care poate sa-mi dea un referral
   * [sau] Aplic direct de pe https://www.amazon.jobs/en/business_categories/university-recruiting
 * Compania mea de vis (Netflix, Dropbox, Asana, Uber...)
   * Verific dacă au poziții deschise penru practică și aplic și acolo

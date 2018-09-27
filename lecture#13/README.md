@@ -5,51 +5,28 @@
 
 ## 0) Am dubii
 
-Am scris cod, dar nu mult, doar cât am făcut laboratoare la universitate. Înțeleg unele structuri de date (array, linked list, stack, binary tree, graph) deși grafurile mi se dau mai greu. 
+E absolut normal sa ai dubii si sa crezi ca esti destul de bun pentru o companie mare. Secretul este că companiile mari nu cauta să angajeze genii dar ingineri: ingineri care pot rezolva probleme de zi cu zi. Nu e necesar să ai o experiență extraordinară, dar e necesar să ai pasiune care să se reflecte prin rezultate. 
 
-Dar am dubii că sunt destul de bun/ă penrtu o așa companie, poate voi aplica la anul. Totuși am dubii și îi scriu lui alex bumbu dacă are rost să aplic în acest an. El mă convinge că are rost și eu mă decid să încerc. **[Nu am ce pierde, și in cel mai bun caz câștig experiență](https://www.facebook.com/careers/students-and-grads/).**
+În caz că nu ai adunat de ajuns experiențe - atunci de ce să nu-ți fai un plan pentru următoarele 5 luni în care să-ți aplici cunoștințele și să implementezi ceva ce îți este interesant ție? Asta îți va aduce experiență și posibilitatea de ați demonstra pasiunea prin rezultate.
+
+Ai dubii? **Atunci aplică - Nu ai ce pierde, și in cel mai rău caz o să știi că mai este nevoie de lucrat, [iar în caz că-ți reușește - vei avea parte de o experiență deosebită](https://www.facebook.com/careers/students-and-grads/).**
 
 ## 1) Îmi pregătesc CVul
 
-CVul va povesti istoria mea: experiențele, impactul și pasiunile. Evidențiaz realizările, dar sunt sincer/ă.
+Write an Exceptional Resume. Please keep your resume to a 1-page PDF.
 
-_Una din metode cum s-o faci_:
-* La inceput scriu pe o hîrtie experiențele mele din domeniu. O simplă listă de:
-  * practici/internships
-  * lucru
-  * proiecte de la start-upuri și hackathons
-  * cursuri și laboratoare interesante
-  * lucrari de laborator sau curs
-* Le scriu pe toate, chiar și pe alea care nu par a fi deosebite.
-* Pentru fiecare experiență încerc să scriu:
-  * care a fost partea cea mai interesantă pentru mine
-  * principalele tehnologii utilizate
-  * care a fost impactul meu
-  * URL (ex. Github) în caz ca sunt on-line
-* Ordonez experiențele după ordinea în care aș vrea să fie citite (primul cel mai special pentru mine)
-* Am cîteva experiențe la care nu am avut ce scrie, și am hotărît să le șterg pe alea care nu sunt exact relevante la domeniu (curs la filosofie, voluntariat la școală, proiect de curs la desen tehnic) dar le păstrez pe alea relevante (curs la structuri de date, laboratorul la calculus in care am implementat operațiuni aritmetice cu numere de lungime infinita)
-* Acum am o lista de 3-7 experiențe cu descriere, si opțional cîteva experiențe fără descriere, dar care îmi par importante/interesante
-* Acum partea ușoară:
-  * Găsesc un oarecare șablon de CV 
-  * Adaug datele de contact (nume, telefon, email)
-  * Adaug Universitatea, Specialitatea și anul în care este preconizat să absolvesc
-  * Adaug lista de experiențe pe care am scris-o anterior
-  * [opțional] Adaug ca anotație lista de cursuri și notele care le-am obținut până astăzi
-  
+Header should include: Name, email address, contact number, links to personal website, LinkedIn, GitHub, StackOverflow, etc.
 
-Spre exemplu la experiențe scriu:
+Strong Bullet Points: 2-3 per role - focus on your accomplishments in the following approach: “Accomplished X by implementing Y which led to Z.” Here’s an example “Reduced object rendering time by 75% by implementing distributed caching, leading to 10% reduction in log-in time.”
 
-### Big numbers arithmetic operations
-In one of the calculus homeworks we had to find out what's the lowest floating point error that we could get in Matlab. I got interested in the topic and decided to test if it's possible to overcome this issue by implementing my own arithmetic operations by storing the digits in an array and simulating the operations that we normally do on paper. I got to a working solution, but found out that after having more than 1000 digits multiplication and division became too slow. But it was enough to have a more accurate result than what you get with 64bit numbers. 
+A suggestion for the outline of your resume: 
+1. Education and Grad Year
+2. Programming Languages and Software
+3. Internship and/ or Industry Experience
+4. Projects/ Hackathons Experience
+5. Notable classes
 
-### Cocos Media internship, Summer 2018
-During this internship I worked on shipping the new logging for front-end layer (python) of the cocos media website (50k requests daily). New logging was consuming less resources which decreased avg server response time by 3%. One of the challenges was to have 0 downtime and no gaps in logging which I successfully achieved. I also made sure that logging is accounted for in E2E tests by updating few tests and creating documentation on how that should be done.
-
-### Better Flappy Game, Feb-May 2018
-github.com/bumbu/better-flappy
-As part of Windows Programming course work I build a clone of Flappy Birds game (single-click only) using only native Windows API for graphics. This allowed me to understand better how the system works and how to create high-performing visual apps for any UI heavy applications. 
-One of the challenges was memory consumption, and after investigating memory usage using VS Magic Memory I found the issue (garbage collection was too slow). After identifying 2 types of objects that caused 80% of regression, I used Objects Pool pattern that increased the frame rate from 10 to 60 fps.
-
+No industry experience? No problem! We’re looking for a variety of experience – here are a few ideas: internships, hackathon participation, contribution to Open Source projects, class projects, and/or personal apps and projects built outside of the classroom. We also appreciate participation in CS-related student groups or experience as a teacher assistant of a CS class – particularly Data Structures, Algorithms or specific Programming-related coursework.
 
 ## 2) Aplic
 

@@ -2,6 +2,7 @@
 
 - Speaker: [bumbu](https://www.fb.com/bumbu) / [bumbu.me](https://bumbu.me)
 - Date: 19.09.2018
+- Video from presentation: https://www.facebook.com/FAF.UTM/videos/1124417584394970/
 
 ## 0) Am dubii
 

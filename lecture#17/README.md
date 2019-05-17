@@ -18,5 +18,5 @@ you could write a small script in Python, using a [framework](https://docs.scrap
 
 In this repository you can find the slides used for this lecture (useful links on the last slide),
 as well as a small project that we used to scrape the whole [menu](https://www.andys.md/en/pages/menu/) of Andy's Pizza restaurant.
-It took us less than 2 minutes :simple_smile:
+It took us less than 2 minutes :smile:
 

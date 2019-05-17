@@ -16,7 +16,7 @@ How to collect this data efficiently?
 You could hire a team of highly trained copy-pasting monkeys (they need bananas..) or
 you could write a small script in Python, using a [framework](https://docs.scrapy.org/en/latest/intro/overview.html) which makes automatic web scraping a breeze.
 
-In this repository you can find the slides used for this lecture (useful links on the last slide),
+In this repository you can find the [slides](https://github.com/TUM-FAF/Lectures/blob/master/lecture%2317/Slides.pdf) used for this lecture (useful links on the last slide),
 as well as a small project that we used to scrape the whole [menu](https://www.andys.md/en/pages/menu/) of Andy's Pizza restaurant.
 It took us less than 2 minutes :smile:
 

@@ -7,6 +7,6 @@
 
 This is a repeat of lecture I did a couple of years ago, with some updates and a new example project.
 
-In this repository you can find the [slides](https://github.com/TUM-FAF/Lectures/blob/master/lecture%2317/Slides.pdf) used for this lecture (useful links on the last slide),
+In this repository you can find the [slides](https://github.com/TUM-FAF/Lectures/blob/master/lecture%2319/Slides.pdf) used for this lecture (useful links on the last slide),
 as well as a small project that we used to scrape posts from [makler.md](https://makler.md/).
 Set up a delay, don't get banned :)
